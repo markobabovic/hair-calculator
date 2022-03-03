@@ -1,0 +1,249 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hair Calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-15 14:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: hair-calculator"
+
+#: includes/templates/calculator_types/type-1.php:11
+#: includes/templates/calculator_types/type-1.php:41
+#: includes/templates/calculator_types/type-1.php:60
+#: includes/templates/calculator_types/type-3.php:8
+#: includes/templates/calculator_types/type-3.php:67
+msgid "$"
+msgstr ""
+
+#: includes/class.Hair_Calculator_Plugin.php:17
+msgid "Add Calculator"
+msgstr ""
+
+#: includes/class.Hair_Calculator_Plugin.php:16
+msgid "Add New"
+msgstr ""
+
+#: includes/class.Hair_Calculator_Plugin.php:21
+msgid "All Calculators"
+msgstr ""
+
+#: includes/templates/calculator_types/type-3.php:41
+msgid "Black"
+msgstr ""
+
+#: includes/templates/calculator_types/type-3.php:42
+msgid "Blonde"
+msgstr ""
+
+#: includes/templates/calculator_types/type-1.php:33
+msgid "Blown away by final result (25%)"
+msgstr ""
+
+#: includes/templates/calculator_types/type-3.php:38
+#: includes/templates/calculator_types/type-3.php:40
+msgid "Brown"
+msgstr ""
+
+#: includes/templates/calculator_types/type-1.php:64
+#: includes/templates/calculator_types/type-2.php:49
+#: includes/templates/calculator_types/type-3.php:71
+msgid "Calculate"
+msgstr ""
+
+#: includes/class.Hair_Calculator_Plugin.php:13
+#: includes/class.Hair_Calculator_Plugin.php:15
+msgid "Calculator"
+msgstr ""
+
+#: includes/templates/metaboxes/metabox_calculator_type.php:6
+msgid "Calculator Type"
+msgstr ""
+
+#: includes/class.Hair_Calculator_Plugin.php:12
+#: includes/class.Hair_Calculator_Plugin.php:14
+msgid "Calculators"
+msgstr ""
+
+#: includes/templates/calculator_types/type-3.php:30
+msgid "Curly"
+msgstr ""
+
+#: includes/templates/calculator_types/type-2.php:14
+msgid "Current Hair Length (inches)"
+msgstr ""
+
+#: includes/templates/calculator_types/type-2.php:21
+msgid "Desired Hair Length (inches)"
+msgstr ""
+
+#: includes/templates/calculator_types/type-1.php:46
+msgid "Did an assistant shampoo and/or blow dry your hair? ($5.00)"
+msgstr ""
+
+#: includes/class.Hair_Calculator_Plugin.php:19
+msgid "Edit Calculator"
+msgstr ""
+
+#: includes/templates/calculator_types/type-1.php:9
+msgid "Final Bill Amount (USD)"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Hair Calculator"
+msgstr ""
+
+#: includes/class.Hair_Calculator_Plugin.php:55
+msgid "Hair Calculator Type"
+msgstr ""
+
+#: includes/templates/calculator_types/type-3.php:36
+msgid "Hair Color"
+msgstr ""
+
+#: includes/templates/calculator_types/type-2.php:28
+msgid "Hair Grow Time (months)"
+msgstr ""
+
+#: includes/templates/metaboxes/metabox_calculator_type.php:13
+msgid "Hair Growth Rate"
+msgstr ""
+
+#: includes/templates/metaboxes/metabox_calculator_setup.php:11
+msgid "Hair Growth Rate Setup"
+msgstr ""
+
+#: includes/templates/calculator_types/type-3.php:8
+msgid "Hair Length (inches)"
+msgstr ""
+
+#: includes/templates/metaboxes/metabox_calculator_type.php:14
+msgid "Hair Price"
+msgstr ""
+
+#: includes/templates/metaboxes/metabox_calculator_setup.php:17
+msgid "Hair Price Setup"
+msgstr ""
+
+#: includes/templates/metaboxes/metabox_calculator_type.php:12
+msgid "Hair Salon Tip"
+msgstr ""
+
+#: includes/templates/metaboxes/metabox_calculator_setup.php:5
+msgid "Hair Salon Tip Setup"
+msgstr ""
+
+#: includes/templates/calculator_types/type-3.php:24
+msgid "Hair Texture"
+msgstr ""
+
+#: includes/templates/calculator_types/type-3.php:15
+msgid "Hair Thickness (inches)"
+msgstr ""
+
+#: includes/templates/calculator_types/type-1.php:28
+msgid "Happy with final result (20%)"
+msgstr ""
+
+#: includes/templates/calculator_types/type-1.php:17
+msgid "How happy were you with your service?"
+msgstr ""
+
+#: includes/templates/calculator_types/type-2.php:9
+msgid "How Long Will It Take to Grow My Hair?"
+msgstr ""
+
+#: includes/templates/calculator_types/type-2.php:8
+msgid "How Long Will My Hair Be?"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://markobabovic.com/"
+msgstr ""
+
+#: includes/templates/calculator_types/type-2.php:16
+#: includes/templates/calculator_types/type-2.php:37
+#: includes/templates/calculator_types/type-3.php:10
+#: includes/templates/calculator_types/type-3.php:17
+msgid "in"
+msgstr ""
+
+#: includes/templates/calculator_types/type-2.php:35
+msgid "Inches Per Month"
+msgstr ""
+
+#. Author of the plugin
+msgid "Marko Babovic"
+msgstr ""
+
+#: includes/class.Hair_Calculator_Plugin.php:18
+msgid "New Calculator"
+msgstr ""
+
+#: includes/class.Hair_Calculator_Plugin.php:25
+msgid "No Calculators Found in Trash."
+msgstr ""
+
+#: includes/class.Hair_Calculator_Plugin.php:24
+msgid "No Calculators Found."
+msgstr ""
+
+#: includes/class.Hair_Calculator_Plugin.php:23
+msgid "Parent Calculators:"
+msgstr ""
+
+#: includes/templates/metaboxes/metabox_calculator_type.php:11
+msgid "Please Select"
+msgstr ""
+
+#: includes/templates/calculator_types/type-3.php:43
+msgid "Red"
+msgstr ""
+
+#: includes/class.Hair_Calculator_Plugin.php:22
+msgid "Search Calculators"
+msgstr ""
+
+#: includes/templates/calculator_types/type-3.php:26
+#: includes/templates/calculator_types/type-3.php:28
+msgid "Straight"
+msgstr ""
+
+#: includes/templates/calculator_types/type-1.php:40
+msgid "Tip:"
+msgstr ""
+
+#: includes/templates/calculator_types/type-1.php:59
+msgid "Total Payable:"
+msgstr ""
+
+#: includes/templates/calculator_types/type-2.php:44
+#: includes/templates/calculator_types/type-3.php:66
+msgid "Total:"
+msgstr ""
+
+#: includes/templates/calculator_types/type-1.php:23
+msgid "Unhappy with final result, but stylist fixed it (15%)"
+msgstr ""
+
+#: includes/class.Hair_Calculator_Plugin.php:20
+msgid "View Calculator"
+msgstr ""
+
+#: includes/templates/calculator_types/type-3.php:53
+msgid "Virgin Hair? (yes/no)"
+msgstr ""
+
+#: includes/templates/calculator_types/type-3.php:29
+msgid "Wavy"
+msgstr ""

@@ -1,0 +1,123 @@
+.custom-select{
+    width: 100%;
+    position: relative;
+    display: inline-block;
+
+
+    *{
+        @include noselect();
+    }
+
+    &.open-select{
+        .select-header{
+            background-color: $c__white;
+            color: $c__black;
+            border-bottom-left-radius: 0;
+            border-bottom-right-radius: 0;
+            border-bottom: 0;
+            border-color: $c__primary;
+
+            &:after {
+                @include rotate(180deg);
+                top: 40%;
+            }
+        }
+
+        .select-body{
+            display: block;
+            border-top: 0;
+            background-color: $c__white;
+            
+            .item {
+                background-color: $c__white;
+                color: $c__black;    
+            }
+        }
+    }
+
+    .select-header{
+        font-size: 16px;
+        line-height: 18.5px;
+        border: 1px solid transparent;
+        padding: 15px 27px 15px 20px;
+        color: $c__black;
+        font-family: $t__font-main;
+        background-color: $c__primary-10;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        border-radius: 8px;
+        width: 100%;
+        resize: none;
+        position: relative;
+        cursor: pointer;
+
+        &:after {
+            content: "";
+            background-image: url("../images/custom-select-arrow.svg");
+            background-repeat: no-repeat;
+            width: 8px;
+            height: 5px;
+            display: block;
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            @include vertical-center;
+        }
+
+        &:hover {
+            opacity: 0.9;
+        }
+
+        *{
+            font-size: inherit;
+            line-height: inherit;
+            font-weight: inherit;
+        }
+    }
+
+    .select-body{
+        background-color: $c__primary-10;
+        position: absolute;
+        width: max-content;
+        width: -moz-max-content;
+        min-width: 100%;
+        z-index: 2;
+        left: 0;
+        right: 0;
+        border: 1px solid $c__primary;
+        border-radius: 8px;
+        display: none;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+        overflow: hidden;
+        padding-bottom: 10px;
+
+        .item{
+            width: 100%;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 18.5px;
+            padding: 5px 27px 5px 20px;
+            color: $c__black;
+            font-family: $t__font-main;
+            cursor: pointer;
+            text-align: left;
+
+            &.hide {
+                display: none;
+            }
+
+            *{
+                font-size: inherit;
+                line-height: inherit;
+                font-weight: inherit;
+            }
+
+            // &:hover{
+            //     background-color: $c__primary;
+            //     color: $c__white;
+            // }
+        }
+    }
+
+}

@@ -1,0 +1,57 @@
+body {
+	// some styles
+	overflow-x: hidden;
+	opacity: 1;
+	transition: opacity .25s ease-in-out;
+}
+
+html,body{
+	min-height: 100%; /* Change 01. Div with height of 100% */
+	height: auto;
+}
+
+#wrap-page.wrap-site-page {
+	position: relative;
+}
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+	max-width: 100%;
+}
+
+input {
+	&::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+		color: inherit;
+		font-size: inherit;
+	}
+
+	&::-moz-placeholder { /* Firefox 19+ */
+		color: inherit;
+		font-size: inherit;
+	}
+
+	&:-ms-input-placeholder { /* IE 10+ */
+		color: inherit;
+		font-size: inherit;
+	}
+
+	&:-moz-placeholder { /* Firefox 18- */
+		color: inherit;
+		font-size: inherit;
+	}
+}
+
+.page-wrapper {
+	width: 1470px;
+	margin: 0 auto;
+	max-width: 100%;
+
+	@include media-breakpoint-up(xxl) {
+		box-shadow: 0px 0px 18px #00000029;
+	}	
+}
+
+.overflow-hidden {
+	overflow: hidden;
+}

@@ -1,0 +1,69 @@
+$BS: "bootstrap/scss";
+
+$grid-gutter-width: 24px !default;
+
+// Bootstrap variables overides
+$grid-breakpoints: (
+  // Extra small screen / phone
+  xs: 0,
+  // Small screen / phone
+  sm: 500px,
+  // Medium screen / tablet
+  md: 700px,
+  // Large screen / desktop
+  lg: 992px,
+  // Extra large screen / wide desktop
+  xl: 1200px,
+  // Extra large screen / wide desktop
+  xxl: 1440px,
+  // Extra ultra large screen / wide desktop
+  xxxl: 1600px,
+);
+
+$container-max-widths: (
+  sm: 500px,
+  md: 700px,
+  lg: 960px,
+  xl: 1200px,
+  xxl: 1400px
+);
+
+@import "bootstrap/scss/_functions";
+@import "bootstrap/scss/_variables";
+@import "bootstrap/scss/_mixins";
+@import "bootstrap/scss/_grid";
+//@import "../../node_modules/bootstrap/scss/utilities";
+//@import "../../node_modules/bootstrap/scss/modal";
+
+// @import "code";
+// @import "grid";
+// @import "tables";
+// @import "forms";
+// @import "buttons";
+// @import "transitions";
+// @import "dropdown";
+// @import "button-group";
+// @import "input-group";
+// @import "custom-forms";
+// @import "nav";
+// @import "navbar";
+// @import "card";
+// @import "breadcrumb";
+// @import "pagination";
+// @import "badge";
+// @import "jumbotron";
+// @import "alert";
+// @import "progress";
+// @import "media";
+// @import "list-group";
+// @import "close";
+// @import "modal";
+// @import "tooltip";
+// @import "popover";
+// @import "carousel";
+// @import "print";
+// @import "images";
+// @import "type";
+// @import "reboot";
+// @import "functions";
+// @import "root";

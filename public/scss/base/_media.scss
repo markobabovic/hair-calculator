@@ -1,0 +1,12 @@
+/*! Media  */
+
+img {
+	max-width: 100%;
+	vertical-align: middle;
+	height: auto;
+}
+
+// image added through gutenberg editor
+.wp-block-image {
+	margin-bottom: 0; // override the default margin-bottom of 1em
+}

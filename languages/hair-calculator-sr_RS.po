@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hair Calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-15 14:39+0000\n"
+"PO-Revision-Date: 2021-12-15 14:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: Serbian\n"
+"Language: sr_RS\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: hair-calculator"
+
+#: includes/templates/calculator_types/type-1.php:11
+#: includes/templates/calculator_types/type-1.php:41
+#: includes/templates/calculator_types/type-1.php:60
+#: includes/templates/calculator_types/type-3.php:8
+#: includes/templates/calculator_types/type-3.php:67
+msgid "$"
+msgstr ""
+
+#: includes/class.Hair_Calculator_Plugin.php:17
+msgid "Add Calculator"
+msgstr "Dodaj kalkulator"
+
+#: includes/class.Hair_Calculator_Plugin.php:16
+msgid "Add New"
+msgstr "Dodaj novi"
+
+#: includes/class.Hair_Calculator_Plugin.php:21
+msgid "All Calculators"
+msgstr "Svi kalkulatori"
+
+#: includes/templates/calculator_types/type-3.php:41
+msgid "Black"
+msgstr "Crna"
+
+#: includes/templates/calculator_types/type-3.php:42
+msgid "Blonde"
+msgstr "Plavuša"
+
+#: includes/templates/calculator_types/type-1.php:33
+msgid "Blown away by final result (25%)"
+msgstr "Oduševljeni konačnim rezultatom (25%)"
+
+#: includes/templates/calculator_types/type-3.php:38
+#: includes/templates/calculator_types/type-3.php:40
+msgid "Brown"
+msgstr "Braun"
+
+#: includes/templates/calculator_types/type-1.php:64
+#: includes/templates/calculator_types/type-2.php:49
+#: includes/templates/calculator_types/type-3.php:71
+msgid "Calculate"
+msgstr "Izračunaj"
+
+#: includes/class.Hair_Calculator_Plugin.php:13
+#: includes/class.Hair_Calculator_Plugin.php:15
+msgid "Calculator"
+msgstr "Kalkulator"
+
+#: includes/templates/metaboxes/metabox_calculator_type.php:6
+msgid "Calculator Type"
+msgstr "Vrsta Kalkulatora"
+
+#: includes/class.Hair_Calculator_Plugin.php:12
+#: includes/class.Hair_Calculator_Plugin.php:14
+msgid "Calculators"
+msgstr "Kalkulatori"
+
+#: includes/templates/calculator_types/type-3.php:30
+msgid "Curly"
+msgstr "Kovrdžava"
+
+#: includes/templates/calculator_types/type-2.php:14
+msgid "Current Hair Length (inches)"
+msgstr "Trenutna dužina kose (inči)"
+
+#: includes/templates/calculator_types/type-2.php:21
+msgid "Desired Hair Length (inches)"
+msgstr "Željena dužina kose (inči)"
+
+#: includes/templates/calculator_types/type-1.php:46
+msgid "Did an assistant shampoo and/or blow dry your hair? ($5.00)"
+msgstr "Da li vam je pomoćnik šamponirao i/ili osušio kosu? (5,00 USD)"
+
+#: includes/class.Hair_Calculator_Plugin.php:19
+msgid "Edit Calculator"
+msgstr "Uredi kalkulator"
+
+#: includes/templates/calculator_types/type-1.php:9
+msgid "Final Bill Amount (USD)"
+msgstr "Konačni iznos računa (USD)"
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Hair Calculator"
+msgstr "Kalkulator za kosu"
+
+#: includes/class.Hair_Calculator_Plugin.php:55
+msgid "Hair Calculator Type"
+msgstr "Tip kalkulatora za kosu"
+
+#: includes/templates/calculator_types/type-3.php:36
+msgid "Hair Color"
+msgstr "Boja kose"
+
+#: includes/templates/calculator_types/type-2.php:28
+msgid "Hair Grow Time (months)"
+msgstr "Vreme rasta kose (meseci)"
+
+#: includes/templates/metaboxes/metabox_calculator_type.php:13
+msgid "Hair Growth Rate"
+msgstr "Stopa rasta kose"
+
+#: includes/templates/metaboxes/metabox_calculator_setup.php:11
+msgid "Hair Growth Rate Setup"
+msgstr "Podešavanje brzine rasta kose"
+
+#: includes/templates/calculator_types/type-3.php:8
+msgid "Hair Length (inches)"
+msgstr "Dužina kose (inči)"
+
+#: includes/templates/metaboxes/metabox_calculator_type.php:14
+msgid "Hair Price"
+msgstr "Hair Price"
+
+#: includes/templates/metaboxes/metabox_calculator_setup.php:17
+msgid "Hair Price Setup"
+msgstr "Podešavanje cene kose"
+
+#: includes/templates/metaboxes/metabox_calculator_type.php:12
+msgid "Hair Salon Tip"
+msgstr "Savet za frizerski salon"
+
+#: includes/templates/metaboxes/metabox_calculator_setup.php:5
+msgid "Hair Salon Tip Setup"
+msgstr "Podešavanje saveta za frizerski salon"
+
+#: includes/templates/calculator_types/type-3.php:24
+msgid "Hair Texture"
+msgstr "Hair Teksture"
+
+#: includes/templates/calculator_types/type-3.php:15
+msgid "Hair Thickness (inches)"
+msgstr "Debljina kose (inči)"
+
+#: includes/templates/calculator_types/type-1.php:28
+msgid "Happy with final result (20%)"
+msgstr "Zadovoljan konačnim rezultatom (20%)"
+
+#: includes/templates/calculator_types/type-1.php:17
+msgid "How happy were you with your service?"
+msgstr "Koliko ste bili zadovoljni svojom uslugom?"
+
+#: includes/templates/calculator_types/type-2.php:9
+msgid "How Long Will It Take to Grow My Hair?"
+msgstr "Koliko će mi trebati da mi raste kosa?"
+
+#: includes/templates/calculator_types/type-2.php:8
+msgid "How Long Will My Hair Be?"
+msgstr "Koliko će mi biti duga kosa?"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://markobabovic.com/"
+msgstr ""
+
+#: includes/templates/calculator_types/type-2.php:16
+#: includes/templates/calculator_types/type-2.php:37
+#: includes/templates/calculator_types/type-3.php:10
+#: includes/templates/calculator_types/type-3.php:17
+msgid "in"
+msgstr "in"
+
+#: includes/templates/calculator_types/type-2.php:35
+msgid "Inches Per Month"
+msgstr "Inches Per Month"
+
+#. Author of the plugin
+msgid "Marko Babovic"
+msgstr ""
+
+#: includes/class.Hair_Calculator_Plugin.php:18
+msgid "New Calculator"
+msgstr "Novi kalkulator"
+
+#: includes/class.Hair_Calculator_Plugin.php:25
+msgid "No Calculators Found in Trash."
+msgstr "Nijedan kalkulator nije pronađen u smeću."
+
+#: includes/class.Hair_Calculator_Plugin.php:24
+msgid "No Calculators Found."
+msgstr "Nisu pronađeni kalkulatori."
+
+#: includes/class.Hair_Calculator_Plugin.php:23
+msgid "Parent Calculators:"
+msgstr "Roditeljski kalkulatori:"
+
+#: includes/templates/metaboxes/metabox_calculator_type.php:11
+msgid "Please Select"
+msgstr "Molimo izaberite"
+
+#: includes/templates/calculator_types/type-3.php:43
+msgid "Red"
+msgstr "Crveni"
+
+#: includes/class.Hair_Calculator_Plugin.php:22
+msgid "Search Calculators"
+msgstr "Search Calculators"
+
+#: includes/templates/calculator_types/type-3.php:26
+#: includes/templates/calculator_types/type-3.php:28
+msgid "Straight"
+msgstr "Pravo"
+
+#: includes/templates/calculator_types/type-1.php:40
+msgid "Tip:"
+msgstr "Savet:"
+
+#: includes/templates/calculator_types/type-1.php:59
+msgid "Total Payable:"
+msgstr "Ukupno plativo:"
+
+#: includes/templates/calculator_types/type-2.php:44
+#: includes/templates/calculator_types/type-3.php:66
+msgid "Total:"
+msgstr "Ukupno:"
+
+#: includes/templates/calculator_types/type-1.php:23
+msgid "Unhappy with final result, but stylist fixed it (15%)"
+msgstr "Nezadovoljan konačnim rezultatom, ali stilista je to popravio (15%)"
+
+#: includes/class.Hair_Calculator_Plugin.php:20
+msgid "View Calculator"
+msgstr "Pogledaj kalkulator"
+
+#: includes/templates/calculator_types/type-3.php:53
+msgid "Virgin Hair? (yes/no)"
+msgstr "Virgin Hair? (da ne)"
+
+#: includes/templates/calculator_types/type-3.php:29
+msgid "Wavy"
+msgstr "Talasasta"

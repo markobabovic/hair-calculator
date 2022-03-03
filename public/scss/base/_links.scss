@@ -1,0 +1,19 @@
+/*! Links  */
+
+
+a {
+	color: $c__black;
+}
+
+@each $class, $hex in $colors{
+
+    body.#{$class}{
+		a {
+			&:hover,
+			&:focus {
+				color: $hex;
+			}
+		}
+	}
+
+}

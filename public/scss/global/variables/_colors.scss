@@ -1,0 +1,43 @@
+// Colors
+
+// Monochrome:
+$c__black: #000000;
+$c__white: #ffffff;
+
+$c__grey: #111111;
+$c__grey-60: #707070;
+$c__grey-50: #909090;
+$c__grey-25: #C3C3C3;
+$c__grey-10: #E0E0E0;
+$c__grey-5: #F3F3F3;
+$c__grey-3: #F8F8F8;
+
+$c__green: #05D226;
+$c__green-light: #D7F2CD;
+$c__green-second: #278B03;
+$c__blue: #2368EE;
+$c__blue-light: #D3E1FC;
+$c__blue-text: #06225A;
+$c__orange: #D76B08;
+$c__orange-light: #FCE6D3;
+
+$c__success: #2DCE89;
+
+// Main colors:
+$c__primary: #FB6721;
+$c__primary-30: #F9F2DE;
+$c__primary-20: #FBEBF0;
+$c__primary-10: #FCFAF4;
+
+$c__secondary: #111111 ;
+$c__text-color: #888888;
+
+
+// Color array
+$colors: (
+	'primary' $c__primary,
+	'secondary' $c__secondary,
+	'black' $c__black,
+	'white' $c__white
+);
+

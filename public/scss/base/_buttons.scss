@@ -1,0 +1,82 @@
+/*! Buttons  */
+
+#hair-calculator {
+	.inner-calculator {
+
+	button,
+	input[type="button"],
+	input[type="reset"],
+	input[type="submit"],
+	.button,
+	%button {
+		font-size: 18px;
+		line-height: 24px;
+		font-family: $t__font-sec;
+		text-decoration: none;
+		display: inline-block;
+		font-weight: 700;
+		text-align: center;
+		background-color: $c__white;
+		border: 0;
+		outline: none;
+		padding: 12px 40px;
+		cursor: pointer;
+		text-align: center;
+		border-radius: 8px;
+		@include transition(background-color 0.3s);
+
+		&.size-small {
+			font-size: 12px;
+			line-height: 12px;
+			padding: 17px 18px;
+		}
+
+		&.primary {
+			background-color: $c__primary;
+			color: $c__white;
+
+			&:hover {
+				background-color: $c__grey;
+			}
+		}
+
+		&:focus {
+			outline: none;
+			background-color: $c__primary;
+			color: $c__white;
+		}
+
+		&.disabled,
+		&[disabled=disabled],
+		&[disabled]{
+			background-color: $c__grey-25;
+			color: $c__grey-60;
+			border: 0;
+			outline: none;
+			pointer-events: none;
+			@include noselect;
+
+			&:hover {
+				background-color: $c__grey-25;
+				color: $c__grey-60;
+			}
+		}
+
+		.icon {
+			width: 10px;
+			height: 10px;
+			display: inline-block;
+			margin-right: 10px;
+			background-position: center;
+			background-repeat: no-repeat;
+
+			&.refresh {
+				background-image: url('../images/refresh-icon-white.svg');
+			}
+		}
+
+	}
+
+	}
+}
+
